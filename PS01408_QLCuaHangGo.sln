@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PS01408_QLCuaHangGo", "PS01408_QLCuaHangGo\PS01408_QLCuaHangGo.vbproj", "{CAA36EBF-4994-47C2-9C3F-33AF1D57E77C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA36EBF-4994-47C2-9C3F-33AF1D57E77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA36EBF-4994-47C2-9C3F-33AF1D57E77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA36EBF-4994-47C2-9C3F-33AF1D57E77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA36EBF-4994-47C2-9C3F-33AF1D57E77C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
